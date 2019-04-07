@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="header_1">Header 1</string>
+    <string name="header_2">Header 2</string>
+    <string name="sub_header_2">Sub Header 2</string>
+</resources>
